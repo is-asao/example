@@ -2,8 +2,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Python Demo</title>
-   <p>demp.pyga作成したプログラムです。実行してください:</p>
+   <p>demp.pyが作成したプログラムです。実行してください:</p>
   <h1>python demo.py</h1>
 </head>
 
